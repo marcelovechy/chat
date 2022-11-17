@@ -2,7 +2,7 @@
 
 
 Objetivo: 
-Criação de projeto web (side project) grupos Max: 3 participantes
+Criação de projeto web (side project)
 
 Necessário: Indicação dos nomes dos mesmos no projeto
 
