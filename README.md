@@ -21,8 +21,5 @@ Base de dados criada em Mysql (estrutura ao vosso critério)
 Layout livre com html e css proprio
 Jquery e chamadas ajax são necessárias para o carregamento da sala de chat.
 
-Entrega: zip com mysql + php + html + css
-Rodapes com os nomes do grupo
-
 Ambito:
 Foco nas ligações as BD's, estruturas de layout, criação de estilos e comunicações jquery/ajax
