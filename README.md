@@ -4,7 +4,6 @@
 Objetivo: 
 Criação de projeto web (side project)
 
-Necessário: Indicação dos nomes dos mesmos no projeto
 
 Techs :  html, css, php, mysq, ajax, jquery
 
